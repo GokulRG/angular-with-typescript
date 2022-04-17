@@ -7,8 +7,8 @@ function logToConsole(): void {
 
 // Array
 // The strings inside the array follow the previously discussed rules in primitives.ts
-let fruits: string[];
-fruits = [`🍎`, `🍊`, `🍏`];
+let fs: string[];
+fs = [`🍎`, `🍊`, `🍏`];
 
 // you can also use the generics symbol to declare the array
 let food: Array<string>;

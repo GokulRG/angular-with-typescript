@@ -6,8 +6,8 @@ function logToConsole() {
 }
 // Array
 // The strings inside the array follow the previously discussed rules in primitives.ts
-var fruits;
-fruits = ["\uD83C\uDF4E", "\uD83C\uDF4A", "\uD83C\uDF4F"];
+var fs;
+fs = ["\uD83C\uDF4E", "\uD83C\uDF4A", "\uD83C\uDF4F"];
 // you can also use the generics symbol to declare the array
 var food;
 food = ["\uD83C\uDF55", "🍔"];
